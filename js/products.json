@@ -1,0 +1,473 @@
+
+     [
+
+        {
+          "name": "Accesoriu Milwaukee 4932399174",
+          "img": "/Practica/img/accesorii_scule_electrice_1.png",
+          "rating": 4.5,
+          "price": 19.99,
+          "id" : 1,
+          "producator" : "aeg"
+        },
+      
+      
+        {
+          "name": "Accesoriu AEG OMNI-RH",
+          "img": "/Practica/img/accesorii_scule_electrice_2.png",
+          "rating": 5,
+          "price": 9872.99,
+          "id" : 1,
+          "producator" : "agm"
+        },
+      
+        {
+          "name": "Accesoriu DeWalt DCF6202",
+          "img": "/Practica/img/accesorii_scule_electrice_3.png",
+          "rating": 4.2,
+          "price": 1239.99,
+          "id" : 1,
+          "producator" : "black_decker"
+        },
+
+        {
+          "name": "Accesoriu Milwaukee 4932399174",
+          "img": "/Practica/img/accesorii_scule_electrice_4.png",
+          "rating": 2.5,
+          "price": 19.99,
+          "id" : 1,
+          "producator" : "bort"
+        },
+      
+      
+        {
+          "name": "Accesoriu AEG OMNI-RH",
+          "img": "/Practica/img/accesorii_scule_electrice_5.png",
+          "rating": 1.8,
+          "price": 612.99,
+          "id" : 1,
+          "producator" : "bosch"
+        },
+      
+        {
+          "name": "Accesoriu DeWalt DCF6202",
+          "img": "/Practica/img/accesorii_scule_electrice_6.png",
+          "rating": 4.2,
+          "price": 549.99,
+          "id" : 1,
+          "producator" : "crown"
+        },
+
+        {
+          "name": "Accesoriu Milwaukee 4932399174",
+          "img": "/Practica/img/accesorii_scule_electrice_7.png",
+          "rating": 4.5,
+          "price": 919.99,
+          "id" : 1,
+          "producator" : "daewoo"
+        },
+      
+      
+        {
+          "name": "Accesoriu AEG OMNI-RH",
+          "img": "/Practica/img/accesorii_scule_electrice_8.png",
+          "rating": 3.8,
+          "price": 242.99,
+          "id" : 1,
+          "producator" : "dastool"
+        },
+
+
+        {
+          "name": "Încărcător+baterii Einhell 45.120.98",
+          "img": "/Practica/img/acumulatoare_si_incarcatoare_pentru_scule_electrice_1.png",
+          "rating": 4.5,
+          "price": 1099879.99,
+          "id" : 2,
+          "producator" : "aeg"
+        },
+      
+      
+        {
+          "name": "DeWalt DCB184P2-XJ",
+          "img": "/Practica/img/acumulatoare_si_incarcatoare_pentru_scule_electrice_2.png",
+          "rating": 3.8,
+          "price": 11112.99,
+          "id" : 2,
+          "producator" : "bort"
+        },
+      
+        {
+          "name": "Acumulator pentru scule electrice DeWalt DCB547G",
+          "img": "/Practica/img/acumulatoare_si_incarcatoare_pentru_scule_electrice_3.png",
+          "rating": 4.2,
+          "price": 9321.99,
+          "id" : 2,
+          "producator" : "bosch"
+        },
+        
+        {
+          "name": "Aerograf Total Tools TT3506",
+          "img": "/Practica/img/aerografe_1.png",
+          "rating": 1.5,
+          "price": 11239.99,
+          "id" : 3,
+          "producator" : "aeg"
+        },
+      
+      
+        {
+          "name": "Aerograf Bosch PFS 1000 (0603207000)",
+          "img": "/Practica/img/aerografe_2.png",
+          "rating": 2.8,
+          "price": 15772.99,
+          "id" : 3,
+          "producator" : "bosch"
+        },
+      
+        {
+          "name": "Pompă vopsit airless Yato YT-82560",
+          "img": "/Practica/img/aerografe_3.png",
+          "rating": 5,
+          "price": 109.99,
+          "id" : 3,
+          "producator" : "bosch"
+        },
+
+        {
+          "name": "Aparat de sudat țevi din .plastic ProCraft PL1400",
+          "img": "/Practica/img/aparate_de_sudat_tevi_din_plastic_1.png",
+          "rating": 1.5,
+          "price": 11239.99,
+          "id" : 4,
+          "producator" : "aeg"
+        },
+      
+      
+        {
+          "name": "Aparat de sudat țevi din .plastic ProCraft PL2000",
+          "img": "/Practica/img/aparate_de_sudat_tevi_din_plastic_3.png",
+          "rating": 2.8,
+          "price": 15772.99,
+          "id" : 4,
+          "producator" : "bosch"
+        },
+      
+        {
+          "name": "Aparat de sudat țevi din .plastic Proton ППТ-1800",
+          "img": "/Practica/img/aparate_de_sudat_tevi_din_plastic_4.png",
+          "rating": 5,
+          "price": 109.99,
+          "id" : 4,
+          "producator" : "bosch"
+        },
+
+        {
+          "name": "Aspirator industrial Karcher WD 3 V-17/4/20 (1.628-101.0)",
+          "img": "/Practica/img/aspiratoare_industriale_1.png",
+          "rating": 1.5,
+          "price": 1239.99,
+          "id" : 5,
+          "producator" : "aeg"
+        },
+      
+      
+        {
+          "name": "Aspirator industrial Daewoo DAVCW90-20L",
+          "img": "/Practica/img/aspiratoare_industriale_2.png",
+          "rating": 2.8,
+          "price": 157.99,
+          "id" : 5,
+          "producator" : "bosch"
+        },
+      
+        {
+          "name": "Aspirator industrial Daewoo DAVCW90-15L",
+          "img": "/Practica/img/aspiratoare_industriale_3.png",
+          "rating": 5,
+          "price": 109.99,
+          "id" : 5,
+          "producator" : "bosch"
+        },
+
+        {
+          "name": "Ciocan rotopercutor Makita HR2470",
+          "img": "/Practica/img/ciocane_rotopercutoare_1.png",
+          "rating": 1.5,
+          "price": 1239.99,
+          "id" : 6,
+          "producator" : "aeg"
+        },
+      
+      
+        {
+          "name": "Ciocan rotopercutor Total Tools TH306236",
+          "img": "/Practica/img/ciocane_rotopercutoare_2.png",
+          "rating": 2.8,
+          "price": 157.99,
+          "id" : 6,
+          "producator" : "bosch"
+        },
+      
+        {
+          "name": "Ciocan rotopercutor Total Tools TH110286",
+          "img": "/Practica/img/ciocane_rotopercutoare_3.png",
+          "rating": 4,
+          "price": 109.99,
+          "id" : 6,
+          "producator" : "bosch"
+        },
+
+        {
+          "name": "Debitor canale Hecht HE1660",
+          "img": "/Practica/img/debitor_canale_1.png",
+          "rating": 1.5,
+          "price": 1239.99,
+          "id" : 7,
+          "producator" : "aeg"
+        },
+      
+      
+        {
+          "name": "Debitor canale Milwaukee WCS 45",
+          "img": "/Practica/img/debitor_canale_2.png",
+          "rating": 2.8,
+          "price": 157.99,
+          "id" : 7,
+          "producator" : "bosch"
+        },
+      
+        {
+          "name": "Debitor canale Ingco WLC15008",
+          "img": "/Practica/img/debitor_canale_3.png",
+          "rating": 4,
+          "price": 109.99,
+          "id" : 7,
+          "producator" : "bosch"
+        },
+
+        {
+          "name": "Ferăstrau cu diamant SomaFix SFX8583",
+          "img": "/Practica/img/ferastraie_cu_diamant_1.png",
+          "rating": 1.5,
+          "price": 1239.99,
+          "id" : 8,
+          "producator" : "aeg"
+        },
+      
+      
+        {
+          "name": "Ferăstrau cu diamant Makita 4100KB",
+          "img": "/Practica/img/ferastraie_cu_diamant_2.png",
+          "rating": 2.8,
+          "price": 157.99,
+          "id" : 8,
+          "producator" : "bosch"
+        },
+      
+        {
+          "name": "Ferăstrau cu diamant Makita 4131",
+          "img": "/Practica/img/ferastraie_cu_diamant_3.png",
+          "rating": 4,
+          "price": 109.99,
+          "id" : 8,
+          "producator" : "bosch"
+        },
+
+        {
+          "name": "Fierăstrău circular Graphite 58G486",
+          "img": "/Practica/img/fierastraie_circulare_1.png",
+          "rating": 1.5,
+          "price": 1239.99,
+          "id" : 9,
+          "producator" : "aeg"
+        },
+      
+      
+        {
+          "name": "Fierăstrău circular Makita 5008MG",
+          "img": "/Practica/img/fierastraie_circulare_2.png",
+          "rating": 2.8,
+          "price": 157.99,
+          "id" : 9,
+          "producator" : "bosch"
+        },
+      
+        {
+          "name": "Fierăstrău circular Makita HS7601",
+          "img": "/Practica/img/fierastraie_circulare_3.png",
+          "rating": 4,
+          "price": 109.99,
+          "id" : 9,
+          "producator" : "bosch"
+        },
+
+        {
+          "name": "Fierăstrău cu bandă DeWalt DCS377NT",
+          "img": "/Practica/img/fierastraie_cu_banda_1.png",
+          "rating": 1.5,
+          "price": 1239.99,
+          "id" : 10,
+          "producator" : "aeg"
+        },
+      
+      
+        {
+          "name": "Fierăstrău cu banda de masă Metabo BAS 318 Precision WNB",
+          "img": "/Practica/img/fierastraie_cu_banda_2.png",
+          "rating": 2.8,
+          "price": 157.99,
+          "id" : 10,
+          "producator" : "bosch"
+        },
+      
+        {
+          "name": "Fierăstrău cu banda de masă DeWalt DW739",
+          "img": "/Practica/img/fierastraie_cu_banda_3.png",
+          "rating": 4,
+          "price": 109.99,
+          "id" : 10,
+          "producator" : "bosch"
+        },
+
+        {
+          "name": "Fierăstrău pentru decupat DeWalt DCS335N-XJ",
+          "img": "/Practica/img/fierastraie_pentru_decupat_1.png",
+          "rating": 1.5,
+          "price": 1239.99,
+          "id" : 11,
+          "producator" : "aeg"
+        },
+      
+      
+        {
+          "name": "Fierăstrău pentru decupat Bort BPS-500-P",
+          "img": "/Practica/img/fierastraie_pentru_decupat_2.png",
+          "rating": 2.8,
+          "price": 157.99,
+          "id" : 11,
+          "producator" : "bosch"
+        },
+      
+        {
+          "name": "Fierăstrău pentru decupat Total Tools TS206656",
+          "img": "/Practica/img/fierastraie_pentru_decupat_3.png",
+          "rating": 4,
+          "price": 109.99,
+          "id" : 11,
+          "producator" : "bosch"
+        },
+
+        {
+          "name": "Fierastrău pentru taieri inclina Metabo KGS 216 M (619260000)",
+          "img": "/Practica/img/fierastraie_pentru_taieri_inclinate_1.png",
+          "rating": 1.5,
+          "price": 1239.99,
+          "id" : 12,
+          "producator" : "aeg"
+        },
+      
+      
+        {
+          "name": "Fierastrău pentru taieri inclina Einhell TH-MS 2112",
+          "img": "/Practica/img/fierastraie_pentru_taieri_inclinate_2.png",
+          "rating": 2.8,
+          "price": 157.99,
+          "id" : 12,
+          "producator" : "bosch"
+        },
+      
+        {
+          "name": "Fierastrău pentru taieri inclina Makita LH1040",
+          "img": "/Practica/img/fierastraie_pentru_taieri_inclinate_3.png",
+          "rating": 4,
+          "price": 109.99,
+          "id" : 12,
+          "producator" : "bosch"
+        },
+
+        {
+          "name": "Fierăstrău sabie Total Tools TS100806",
+          "img": "/Practica/img/fierastrau_sabie_1.png",
+          "rating": 1.5,
+          "price": 1239.99,
+          "id" : 13,
+          "producator" : "aeg"
+        },
+      
+      
+        {
+          "name": "Fierăstrău sabie Ryobi RRS1801M",
+          "img": "/Practica/img/fierastrau_sabie_2.png",
+          "rating": 2.8,
+          "price": 157.99,
+          "id" : 13,
+          "producator" : "bosch"
+        },
+      
+        {
+          "name": "Fierăstrău sabie Einhell TE-AP 950 E (43.261.80)",
+          "img": "/Practica/img/fierastrau_sabie_3.png",
+          "rating": 4,
+          "price": 109.99,
+          "id" : 13,
+          "producator" : "bosch"
+        },
+
+        {
+          "name": "Foarfeca electrica Raider RD-PSH01",
+          "img": "/Practica/img/foarfece_electrice_1.png",
+          "rating": 1.5,
+          "price": 1239.99,
+          "id" : 14,
+          "producator" : "aeg"
+        },
+      
+      
+        {
+          "name": "Foarfeca electrica Makita JS1602",
+          "img": "/Practica/img/foarfece_electrice_2.png",
+          "rating": 2.8,
+          "price": 157.99,
+          "id" : 14,
+          "producator" : "bosch"
+        },
+      
+        {
+          "name": "Foarfeca Graphite 59G402",
+          "img": "/Practica/img/foarfece_electrice_3.png",
+          "rating": 4,
+          "price": 109.99,
+          "id" : 14,
+          "producator" : "bosch"
+        },
+
+        {
+          "name": "Unealta multifunctionala Einhell TE-MG 18 Li",
+          "img": "/Practica/img/instrument_multifunctional_1.png",
+          "rating": 1.5,
+          "price": 1239.99,
+          "id" : 15,
+          "producator" : "aeg"
+        },
+      
+      
+        {
+          "name": "Unealta multifunctionala ProCraft PMT650E",
+          "img": "/Practica/img/instrument_multifunctional_2.png",
+          "rating": 2.8,
+          "price": 157.99,
+          "id" : 15,
+          "producator" : "bosch"
+        },
+      
+        {
+          "name": "Unealta multifunctionala Ryobi RMT300-SA",
+          "img": "/Practica/img/instrument_multifunctional_3.png",
+          "rating": 4,
+          "price": 109.99,
+          "id" : 15,
+          "producator" : "bosch"
+        }
+    ]
+  
+  

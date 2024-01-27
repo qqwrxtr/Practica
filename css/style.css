@@ -1,0 +1,422 @@
+body{
+    font-family: 'Manrope';
+    font-style: normal;
+    width: 1440px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100%;
+}
+
+button{
+    background-color: #fff;
+}
+
+a{
+    color: black;
+}
+
+button{
+    background-color: white;
+}
+
+.antet{
+    max-width: 1440px;
+    width: 100%;
+    margin-top: 27px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+}
+
+.logo .img img{
+    width: 150px;
+    height: 70px;
+}
+
+.logo .name h3{
+    font-size: 27px;
+}
+
+.navbar{
+    transform: translateX(150px);
+}
+
+.navbar ul {
+    display: flex;
+    width: 336px;
+    justify-content: space-between;
+    font-size: 22px;
+}
+
+
+
+.navbar li a:hover{
+    text-decoration: underline;
+}
+
+.switch {
+    position: relative;
+    display: inline-block;
+    width: 54px;
+    height: 30px;
+  }
+  
+  .switch input { 
+    opacity: 0;
+    width: 0;
+    height: 0;
+  }
+  
+  .slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    -webkit-transition: .4s;
+    transition: .4s;
+  }
+  
+  .slider:before {
+    position: absolute;
+    content: "Ro";
+    height: 24px;
+    width: 24px;
+    top: 3px;
+    left: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    background-color: white;
+    -webkit-transition: .4s;
+    transition: .4s;
+  }
+  
+  input:checked + .slider {
+    background-color: #2196F3;
+  }
+  
+  input:focus + .slider {
+    box-shadow: 0 0 1px #2196F3;
+  }
+  
+  input:checked + .slider:before {
+    -webkit-transform: translateX(20px);
+    -ms-transform: translateX(20px);
+    transform: translateX(20px);
+    content: "En";
+  }
+  
+  /* Rounded sliders */
+  .slider.round {
+    border-radius: 34px;
+  }
+  
+  .slider.round:before {
+    border-radius: 50%;
+  }
+
+.options{
+    display: flex;
+    width: 150px;
+    justify-content: space-between;
+}
+
+.content{
+    margin-top: 50px;
+}
+
+.banner{
+    background-image: url("/Eu/Practica/img/baner.png");
+    width: 1200px;
+    height: 540px;
+    display: flex;
+    padding-top: 100px;
+    padding-left: 50px;
+}
+
+.big h3{
+    font-size: 54px;
+    font-weight: 700;
+    color: #FFFFFF;
+    width: 500px;
+    height: 210px;
+}
+
+.green{
+    color: #3C9379;
+}
+
+.descriere{
+    color: #FFFFFF;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0.3px;
+    width: 575px;
+    height: 40px;
+}
+
+.button_buy{
+    margin-top: 32px;
+}
+
+.button_buy button{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 16px 22px;
+    gap: 10px;
+    width: 170px;
+    height: 48px;
+    background: #3C9379;
+    border-radius: 8px;
+}
+
+.button_buy button a p{
+    width: 128px;
+    height: 16px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 16px;
+    letter-spacing: 0.3px;
+    color: #FFFFFF;
+}
+
+.company{
+    margin-top: 100px;
+    
+}
+
+.swiper-slide{
+    text-align: center;
+}
+
+.swiper-slide img{
+    width: 237px;
+    height: 50px;
+}
+
+.swiper {
+    width: 1200px;
+    height: 100px;
+  }
+
+.company_txt{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 60px;
+}
+
+.company_txt h3{
+    width: 881px;
+    height: 40px;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 40px;
+    text-align: center;
+    letter-spacing: 0.3px;
+    color: #101913;
+}
+
+.bg_row{
+    width: 500px;
+    height: 180px;
+    background-color: #3c93795e;
+    border-radius: 30px;
+    overflow: hidden;
+    display: flex;
+}
+
+.bg_row img{
+    width: 350px;
+    height: 180px;
+}
+
+.cat{
+    padding-top: 20px;
+    margin: 0 0 0 50px;
+}
+
+.cat h2{
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.cat p{
+    font-size: 17px;
+}
+
+.second img{
+    width: 320px;
+    height: 202px;
+}
+
+.first_second{
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.category{
+    display: flex;
+    width: 1200px;
+    justify-content: space-between;
+}
+
+.third_fourth{
+    display: flex;
+    width: 640px;
+    justify-content: space-between;
+}
+
+.bg_col{
+    width: 290px;
+    height: 400px;
+    background-color: #3c93795e;
+    border-radius: 30px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.third img {
+    width: 254px;
+    height: 273px;
+}
+
+.fourth img{
+    width: 360px;
+    height: 323px;
+}
+
+.lil{
+    transform: translateX(-80px);
+}
+
+.fourth{
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.lol{
+    transform: translateX(-50px);
+}
+
+.categorii{
+    margin-top: 100px;
+}
+
+.category{
+    margin-top: 30px;
+}
+
+.top h2{
+    font-size: 32px;
+    font-weight: bold;
+    letter-spacing: 0.3px;
+}
+
+.why_us{
+    margin-top: 100px;
+}
+
+.blocks_info{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 70px;
+}
+
+.capiatl_tixt{
+    font-size: 32px;
+    text-align: center;
+    font-weight: 900;
+}
+
+.toxt h3{
+    font-size: 20px;
+    font-weight: 900;
+    margin-top: 10px;
+}
+
+.toxt p{
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+.flex{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    width: 270px;
+    height: 160px;
+}
+
+.names h3{
+    font-size: 32px;
+    font-weight: 800;
+}
+
+.names p{
+    font-size: 18px;
+}
+
+.names{
+    width: 300px;
+}
+
+.footer{
+    width: 1200px;
+    margin-top: 100px;
+    padding-bottom: 20px;
+}
+
+.four_blocks{
+    display: flex;
+    width: 1200px;
+    justify-content: space-between;
+}
+
+.tag{
+    font-size: 16px;
+    font-weight: 800;
+    margin-bottom: 10px;
+}
+
+.space{
+    line-height: 20px;
+}
+
+.space:hover{
+    text-decoration: underline;
+}
+
+.cont{
+    line-height: 20px;
+}
+
+.idk{
+    text-align: center;
+    margin-top: 40px;
+    color: rgba(0, 0, 0, 0.45);
+}
+
+.names{
+    line-height: 25px;
+}
+
+.names p{
+    margin-top: 15px;
+}

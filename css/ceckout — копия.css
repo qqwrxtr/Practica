@@ -1,0 +1,162 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.label_{
+    display: flex;
+    align-items: center;
+}
+
+button{
+    background-color: #fff;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+.mainblock{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 900px;
+
+}
+
+.title{
+    font-size: 27px;
+}
+
+.first__col , .second__col{
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 407px;
+    
+}
+
+.what_need{
+    font-size: 17px;
+}
+
+.icon{
+    transform: scale(1.10);
+    padding-right: 10px;
+}
+
+.space input{
+    border: 1px solid rgba(128, 128, 128, 0.492);
+    width: 400px;
+    height: 30px;
+    padding: 0 0 0 5px;
+}
+
+.state_zip , .expiration_cvv{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.state_zip input , .expiration_cvv input{
+    width: 170px;
+}
+
+.cards__img{
+    display: flex;
+    width: 200px;
+    justify-content: space-between;
+
+}
+
+.cards__img img{
+    width: 40px;
+    height: 20px;
+    object-fit: cover;
+}
+
+.expiration_cvv{
+    display: flex;
+}
+
+.error{
+    border: red 1px solid!important;
+}
+
+
+.back{
+    margin-top: 20px;
+    width: 700px;
+    height: 30px;
+    background-color: rgb(236, 94, 94);
+    border: 0;
+}
+
+
+.checkbox p{
+    transform: translateX(15px);
+}
+
+.submit{
+    margin-top: 20px;
+    width: 900px;
+    height: 30px;
+    border: 0;
+    background-color: #3C9379;
+    cursor: pointer;
+}
+
+.result h3{
+    font-size: 30px;
+}
+
+#suma{
+    font-size: 24px;
+}
+
+.button{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.result{
+    margin: 50px 0;
+    text-align: center;
+}
+
+.img_input{
+    width: 40px;
+    height: 30px;
+    position: absolute;
+    object-fit: cover;
+    transform: translateX(90px);
+}
+
+.input_type{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+.checkbox{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    transform: translateX(-363px);
+    margin-top: 20px;
+}
+
+.second__col{
+    margin-top: 20px;
+}
